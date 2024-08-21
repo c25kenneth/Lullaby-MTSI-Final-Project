@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "182227983806",
+    "project_id": "baby-steps-36d59",
+    "storage_bucket": "baby-steps-36d59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182227983806:android:4cb8fade3c70cc44b22def",
+        "android_client_info": {
+          "package_name": "com.c25kenneth.baby_steps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182227983806-9enf6ppt6ebj931g3qjln3gr1i4nqsg6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.c25kenneth.baby_steps",
+            "certificate_hash": "d2d280aee390f696b50362fbae2f6ea04164190a"
+          }
+        },
+        {
+          "client_id": "182227983806-9mb9j5msekrjvjj4tibu4npo0ceq5115.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDju9BtEmIda_o7u-u-GtmMEYHJRvZUj0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182227983806-9mb9j5msekrjvjj4tibu4npo0ceq5115.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182227983806-jb45g0j8tuctuhob1elqi99iu4bnj2f4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.babySteps.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
