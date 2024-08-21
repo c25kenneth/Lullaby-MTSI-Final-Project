@@ -1,4 +1,4 @@
-2024 M&TSI Team 10 Project - Lullaby
+## 2024 M&TSI Team 10 Project - Lullaby 👶🍼
 
 Lullaby is a smart baby monitor that eases the worries of new parents. 
 
