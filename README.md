@@ -14,11 +14,11 @@ Lullaby itself also acts as a voice assistant. Parents can give verbal commands 
 ## Images
 <p align="center">
   <img width="300" alt="Screenshot 1" src="https://github.com/user-attachments/assets/01ec5ddd-8bb9-454e-a747-c35ae4e6842c">
+  <img width="300" alt="Screenshot 8" src="https://github.com/user-attachments/assets/22e604c2-732b-43b1-aaf9-3af99380a012">
   <img width="300" alt="Screenshot 4" src="https://github.com/user-attachments/assets/c05a9af4-f5cb-4f4d-a360-21485bffa55c">
   <img width="300" alt="Screenshot 5" src="https://github.com/user-attachments/assets/c72aad70-5572-420f-97ef-0a8846f810e9">
   <img width="300" alt="Screenshot 6" src="https://github.com/user-attachments/assets/7af1cebf-b67f-4f41-8a74-cf91b5c9029b">
   <img width="300" alt="Screenshot 7" src="https://github.com/user-attachments/assets/e54380f2-1a96-4577-9834-b9341c0eda06">
-  <img width="300" alt="Screenshot 8" src="https://github.com/user-attachments/assets/22e604c2-732b-43b1-aaf9-3af99380a012">
   <img width="300" alt="Screenshot 9" src="https://github.com/user-attachments/assets/2975912f-2d14-4da9-acf0-bf9e983156fe">
   <img width="300" alt="Screenshot 10" src="https://github.com/user-attachments/assets/87878f09-a286-471f-aa7c-e08c93d6f11c">
 </p>
