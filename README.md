@@ -14,7 +14,6 @@ Lullaby itself also acts as a voice assistant. Parents can give verbal commands 
 ## Images
 <p align="center">
   <img width="300" alt="Screenshot 1" src="https://github.com/user-attachments/assets/01ec5ddd-8bb9-454e-a747-c35ae4e6842c">
-  <img width="300" alt="Screenshot 2" src="https://github.com/user-attachments/assets/d897e482-c420-41ec-9bf3-b7859791b657">
   <img width="300" alt="Screenshot 4" src="https://github.com/user-attachments/assets/c05a9af4-f5cb-4f4d-a360-21485bffa55c">
   <img width="300" alt="Screenshot 5" src="https://github.com/user-attachments/assets/c72aad70-5572-420f-97ef-0a8846f810e9">
   <img width="300" alt="Screenshot 6" src="https://github.com/user-attachments/assets/7af1cebf-b67f-4f41-8a74-cf91b5c9029b">
