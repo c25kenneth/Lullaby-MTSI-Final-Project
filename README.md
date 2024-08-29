@@ -12,7 +12,7 @@ The physical Lullaby device was coded in Python. I used OpenCV and Mediapipe for
 Lullaby itself also acts as a voice assistant. Parents can give verbal commands to the physical Lullaby device which will then use speech-to-text to analyze the intent. This allows users to schedule meal/nap times on the app via their voices.
 
 ## Images
-<p align="right">
+<p align="center">
   <img width="300" alt="Screenshot 1" src="https://github.com/user-attachments/assets/01ec5ddd-8bb9-454e-a747-c35ae4e6842c">
   <img width="300" alt="Screenshot 2" src="https://github.com/user-attachments/assets/d897e482-c420-41ec-9bf3-b7859791b657">
   <img width="300" alt="Screenshot 3" src="ttps://github.com/user-attachments/assets/12cb259c-2d44-49d5-9e8d-69eca5048e69">
